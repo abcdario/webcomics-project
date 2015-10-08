@@ -1,0 +1,30 @@
+.icon {
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-image: url(sprite.svg);
+}
+.icon-avancar {
+	width: 32px;
+	height: 32px;
+	background-position: 0 0;
+}
+.icon-avancar-td {
+	width: 32px;
+	height: 32px;
+	background-position: -64px 0;
+}
+.icon-random {
+	width: 32px;
+	height: 32px;
+	background-position: -128px 0;
+}
+.icon-voltar {
+	width: 32px;
+	height: 32px;
+	background-position: -192px 0;
+}
+.icon-voltar-td {
+	width: 32px;
+	height: 32px;
+	background-position: -256px 0;
+}
